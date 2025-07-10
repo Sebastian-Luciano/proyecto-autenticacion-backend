@@ -59,7 +59,6 @@ npm run dev
 - Registro de usuarios con validación y cifrado de contraseñas
 - Inicio de sesión con generación de token JWT
 - Middleware de autenticación para rutas protegidas
-- Asociación de usuarios con roles (si es requerido)
 
 ## 🧠 Autor
 
